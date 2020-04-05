@@ -57,7 +57,7 @@ class App extends Component {
     return (
       <div className="container">
         <br />
-        <h2>Lottery Contract</h2>
+        <h2>Lottery contract on rinkeby network</h2>
         <hr />
         <h5>This contract is managed by {this.state.manager}</h5>
         <hr />
