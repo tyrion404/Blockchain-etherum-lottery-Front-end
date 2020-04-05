@@ -4,3 +4,6 @@ $ npm install
 $ npm start
 
 visit localhost:3000
+
+## for demo
+https://etherumlottery.ml/
