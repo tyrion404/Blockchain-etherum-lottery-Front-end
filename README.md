@@ -1,9 +1,17 @@
 # Etherum-Lottery-Front-End
 
-$ npm install
-$ npm start
+> Requires metamask in browser.
 
-visit localhost:3000
+install packages:
+```
+$ npm install
+```
+to run code:
+```
+$ npm start
+```
+
+* visit localhost:3000
 
 ## for demo
 https://ethereumlottery.ml/
